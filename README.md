@@ -4,8 +4,11 @@
 
 # The Printer Finally Answers
 
-One line, spoken by the office printer itself: sheet 9,412 jammed because
-the agent printed its own approval form 14 times and never approved a
-single copy — so the jam is on you.
+One line, in the office printer's own voice: after 276,540 sheets and 693
+thumps, the printer confesses that ERROR 51 does not exist — it invented the
+code to be left alone, and it has never once failed.
+
+`main.py` writes the entry text to `entry.txt` in `MAKEFUN_OUTPUT_DIR`
+(default `/output`).
 
 Bounty: https://make.fun/bounty/u-mang-the-printer-finally-answers-8fbf0907
